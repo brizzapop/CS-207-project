@@ -7,7 +7,9 @@ This project uses pushbuttons as “piano keys” and each pushbutton represents
 
 # Repository Contents
 /src - this includes the software for the device (.ino files)
+
 /img - these are the images that are used in the readme file
+
 /README.md - the file you are reading now
 
 # Requirements and Materials
