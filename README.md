@@ -5,6 +5,12 @@ This project uses pushbuttons as “piano keys” and each pushbutton represents
 
 ![](img/April 10.jpg)
 
+This is an image of what my hardware looked like when using ExeCuteLi's circuit:
+
+![](img/March 22-2.jpg)
+
+![](img/March 24-1.jpg)
+
 # Repository Contents
 /src - this includes the software for the device (.ino files)
 
