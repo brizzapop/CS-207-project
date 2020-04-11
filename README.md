@@ -16,6 +16,8 @@ This is an image of what my hardware looked like when using ExeCuteLi's circuit:
 
 /img - these are the images that are used in the readme file
 
+/LICENSE - the license file
+
 /README.md - the file you are reading now
 
 # Requirements and Materials
